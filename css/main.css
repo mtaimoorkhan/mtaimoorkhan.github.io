@@ -8044,6 +8044,7 @@ pubtit {
 
 .avatar {
   vertical-align: middle;
+  horizontal-align: middle;
   width: 150px;
   height: 150px;
   border-radius: 50%;
