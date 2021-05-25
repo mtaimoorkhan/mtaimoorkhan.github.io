@@ -8044,9 +8044,9 @@ pubtit {
 
 .avatar {
   vertical-align: middle;
-  width: 200px;
-  height: 200px;
-  border-radius: 80%;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
 }
 
 .column {
