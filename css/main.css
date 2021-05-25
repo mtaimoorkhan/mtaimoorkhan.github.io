@@ -8052,7 +8052,8 @@ pubtit {
 .column {
   float: left;
   width: 20%;
-  padding: 5px;
+  padding: 10px;
+  border-spacing: 15px;
 }
 
 .row::after {
