@@ -8044,16 +8044,16 @@ pubtit {
 
 .avatar {
   vertical-align: middle;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
 .column {
   float: left;
   width: 20%;
-  padding: 10px;
-  border-spacing: 15px;
+  padding: 5px;
+  border-spacing: 10px;
 }
 
 .row::after {
